@@ -7,3 +7,4 @@ Checklist:
 - Monthly rebalancing engine with equal-weight portfolios
 - Performance metrics: CAGR, volatility, Sharpe, max drawdown
 - Visual analytics with Matplotlib
+
